@@ -1,10 +1,10 @@
 <header>
-## Opensource 그냥P로하조
+#Opensource 그냥P로하조
 
 202334272 김예빈 202334266 김민겸  202334270 김성윤 202334352 하승준
 
-<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg width=300 align=right>
-<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg width=300 align=left>
+![](https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg)
+![](https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg)
 
 ***
 </header>
