@@ -22,10 +22,7 @@
 
 ## filnal_updated_capture.py
 
-_update version of final_webcam.py.
-_taking pictures by pressing the s key.
-
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/final_updated_capture_Execution_result.png  width=300 align=right>
 
 - update version of final_webcam.py.
 - taking pictures by pressing the s key.
