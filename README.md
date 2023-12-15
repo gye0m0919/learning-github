@@ -11,10 +11,14 @@
 
 202334272 김예빈 202334266 김민겸  202334270 김성윤 202334352 하승준
 
+***
+
 </header>
 
 <img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg alt=celebrate width=300 align=left>
 <img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg alt=celebrate width=300 align=right>
+
+***
 
 ## filnal_updated_capture.py
 
