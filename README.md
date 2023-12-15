@@ -19,7 +19,7 @@ When taking photos, unwanted subjects or other people are sometimes captured. To
 
 ### final_updated_capture.py
 
-<img src="https://github.com/yebin0523/OpenSource/blob/main/photo/final_updated_capture_Execution_result.png?raw=true" width = "300px" align = "right">
+<img src="https://github.com/yebin0523/OpenSource/blob/main/photo/final_updated_capture_Execution_result.png?raw=true" width = "400px" align = "right">
 
 - **Updated version of final_webcam.py.**
 - Capture photos by pressing the 's' key. (Saved to a file)
@@ -29,6 +29,9 @@ When taking photos, unwanted subjects or other people are sometimes captured. To
 
 ### final_webcam.py
 
+<img src="https://github.com/yebin0523/OpenSource/blob/main/photo/final_webcam_Execution_result.png?raw=true" width = "400px" align = "right">
+
+
 - **Initial completed code.**
 - Photo capture functionality is not implemented.
 - It runs with the webcam, continuously displaying the number of people detected in the execution window.
@@ -37,19 +40,15 @@ When taking photos, unwanted subjects or other people are sometimes captured. To
 ### mosiac.py
 
 - **Reference code implementing mosaic functionality.**
+- https://github.com/kimjinho1/Real-time-face-recognition-and-mosaic-using-deep-learning/blob/master/2.%20Real-time_face_detection.ipynb
 
 ### opensource_capture.py
 
 - **Reference source code implementing webcam capture.**
+- https://github.com/kimjinho1/Real-time-face-recognition-and-mosaic-using-deep-learning/blob/master/0.%20opencv_self_camera.ipynb
 
 ### Additional haar~~ Codes
 
 - **Files added when errors occur during execution.**
-
-
-
-## How to Run
-
-Clone the project and execute each file. Refer to the comments and code contents of each file for detailed instructions.
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
