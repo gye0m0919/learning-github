@@ -15,14 +15,17 @@
 
 </header>
 
-<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg width=400 align=middle>
-<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg width=400 align=middle>
+<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg width=400>
+<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg width=400>
 
 ***
 
 ## filnal_updated_capture.py
 
-<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/final_updated_capture_Execution_result.png  width=300 align=right>
+_update version of final_webcam.py.
+_taking pictures by pressing the s key.
+
+<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
 - update version of final_webcam.py.
 - taking pictures by pressing the s key.
