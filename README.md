@@ -19,6 +19,8 @@ When taking photos, unwanted subjects or other people are sometimes captured. To
 
 ### final_updated_capture.py
 
+<img src="https://github.com/yebin0523/OpenSource/blob/main/photo/final_updated_capture_Execution_result.png?raw=true" width = "300px" align = "right">
+
 - **Updated version of final_webcam.py.**
 - Capture photos by pressing the 's' key. (Saved to a file)
 - The webcam continues to run.
