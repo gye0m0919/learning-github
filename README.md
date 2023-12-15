@@ -9,6 +9,12 @@
 
 This project implements a tool for taking photos using a webcam. It primarily uses the webcam to take photos in real-time or perform related functions.
 
+### Motivation
+
+When taking photos, unwanted subjects or other people are sometimes captured. To prevent this inconvenience of manually covering or using mosaics, we implemented it in Python.
+
+---
+
 ## Files and Contents
 
 ### final_updated_capture.py
@@ -38,9 +44,7 @@ This project implements a tool for taking photos using a webcam. It primarily us
 
 - **Files added when errors occur during execution.**
 
-### Motivation
 
-When taking photos, unwanted subjects or other people are sometimes captured. To prevent this inconvenience of manually covering or using mosaics, we implemented it in Python.
 
 ## How to Run
 
