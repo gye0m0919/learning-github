@@ -1,18 +1,15 @@
-# Opensource JustP_capture
+# Opensource 그냥P로하조
 
-202334272 Kim Yebin 202334266 Kim Mingyeom 202334270 Kim Sungyoon 202334352 Ha Seungjun
+202334272 김예빈 202334266 김민겸  202334270 김성윤 202334352 하승준
 
-***
+![](https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg) |![](https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg )
+--- | --- | 
 
 ## Project Description
 
 This project implements a tool for taking photos using a webcam. It primarily uses the webcam to take photos in real-time or perform related functions.
 
 ## Files and Contents
-
-### photo Folder
-
-- **Folder for storing execution results and demonstration photos.**
 
 ### final_updated_capture.py
 
