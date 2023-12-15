@@ -15,8 +15,8 @@
 
 </header>
 
-<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg width=400 align=right>
-<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg width=400 align=left>
+<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg width=300 align=right>
+<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg width=300 align=left>
 
 ***
 
