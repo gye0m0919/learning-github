@@ -7,29 +7,26 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Opensource 그냥P로하조
 
-_Get started using GitHub in less than an hour._
+202334272 김예빈 202334266 김민겸  202334270 김성윤 202334352 하승준
 
 </header>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg alt=celebrate width=300 align=left>
+<img src=https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg alt=celebrate width=300 align=right>
 
-## Finish
+## filnal_updated_capture.py
 
-_Congratulations, you've completed this course and joined the world of developers!_
+_update version of final_webcam.py.
+_taking pictures by pressing the s key.
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of your accomplishments:
-
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+- update version of final_webcam.py.
+- taking pictures by pressing the s key.
+- webcams run continuously.
+- check whether a photo is being taken through the phrase phto saved.
 
 ### What's next?
 
