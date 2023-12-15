@@ -4,9 +4,11 @@
 
 202334272 김예빈 202334266 김민겸  202334270 김성윤 202334352 하승준
 
-![](https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg) |![]
-(https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg )
+![](https://github.com/yebin0523/OpenSource/blob/main/photo/example_1.jpg) |![](https://github.com/yebin0523/OpenSource/blob/main/photo/example_2.jpg )
 --- | --- | 
+
+![](https://velog.velcdn.com/images/woojusm/post/38702781-90fd-44e5-9bf2-a4f1f2eabffe/image.png) | ![](https://velog.velcdn.com/images/woojusm/post/10fd9c69-9abd-46ad-897c-1589168ff54f/image.png)
+---|---|
 
 ![image.jpg1](https://steemitimages.com/0x0/https://static.tasteem.io/uploads/image/image/7289/content_994dbe3f-631b-4f76-9ee1-751c87c668dd.jpeg) |![image.jpg2](https://steemitimages.com/0x0/https://static.tasteem.io/uploads/image/image/7293/content_994dbe3f-631b-4f76-9ee1-751c87c668dd.jpeg)
 --- | --- | 
